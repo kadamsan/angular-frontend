@@ -1,2 +1,2 @@
 # angular-frontend
-Frontend Application build with Angular
+Frontend Application build in Angular
